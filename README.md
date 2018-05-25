@@ -27,3 +27,8 @@ The task to re-spool was made easy by temporarily re-purposing a rock tumbler ba
 
 ![img_0507](https://user-images.githubusercontent.com/15971213/38949831-707b3e42-42f8-11e8-9389-fbb876fdbbce.png)
 ![img_0508](https://user-images.githubusercontent.com/15971213/38950068-3673a63e-42f9-11e8-9cbc-ab4e912bc5ec.png)
+
+|Donate||Cryptocurrency|
+|:-----:|---|:--------:|
+| ![eth-receive](https://user-images.githubusercontent.com/15971213/40564950-932d4d10-601f-11e8-90f0-459f8b32f01c.png) || ![btc-receive](https://user-images.githubusercontent.com/15971213/40564971-a2826002-601f-11e8-8d5e-eeb35ab53300.png) |
+|Ethereum||Bitcoin|
